@@ -1,0 +1,4 @@
+fd2 1. Este es mi segundo file, linea 1
+fd2 2. Este es mi segundo file, linea 2
+fd2 3.
+fd2 4. Este es mi segundo file, linea 4
